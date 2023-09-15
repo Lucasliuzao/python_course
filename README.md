@@ -8,4 +8,4 @@ Repositório contendo um resumo do curso de Python da [Digital Innovation One](h
 ## 💻 Resumo das Aulas
 | Aulas | Resumos |
 |--------|--------|
-|"Primeiros Passos Python" | [Resumos] (https://github.com/Lucasliuzao/python_course/tree/main/Primeiros%20passos%20python)
+|"Primeiros Passos Python" | [Resumos](https://github.com/Lucasliuzao/python_course/tree/main/Primeiros%20passos%20python)
